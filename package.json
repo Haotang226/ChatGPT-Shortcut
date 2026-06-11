@@ -1,7 +1,6 @@
 {
   "name": "chatgpt-shortcut",
   "version": "4.3.0",
-  "private": false,
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
@@ -74,5 +73,6 @@
   },
   "engines": {
     "node": ">=20.0"
-  }
+  },
+  "packageManager": "yarn@4.5.0"
 }
